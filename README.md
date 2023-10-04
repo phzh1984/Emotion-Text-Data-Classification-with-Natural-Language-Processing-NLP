@@ -1,4 +1,4 @@
-# Emotion-Text-Data-Classification-with-Natural-Language-Processing-NLP-
+# Emotion-Text-Data-Classification-with-Natural-Language-Processing
 
 Dataset Description
 
